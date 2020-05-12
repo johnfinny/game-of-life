@@ -495,7 +495,7 @@
             </reporting>
         </profile>
     </profiles>
-</project>
+
 
 <distributionManagement>
     <snapshotRepository>
@@ -510,4 +510,4 @@
     </repository>
   </distributionManagement>
 
-
+</project>
