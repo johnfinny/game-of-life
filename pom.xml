@@ -501,12 +501,12 @@
     <snapshotRepository>
       <id>devopsschool</id>
       <name>Devops-snapshot</name>
-      <url>http://18.217.224.149:8081/repository/Devops-snapshot/</url>
+      <url>http://18.217.252.20:8081/repository/Devops-snapshot//</url>
     </snapshotRepository>
     <repository>
       <id>devopsschool</id>
       <name>Devops-release</name>
-      <url>http://18.217.224.149:8081/repository/Devops-release/</url>
+      <url>http://18.217.252.20:8081/repository/Devops-release/</url>
     </repository>
   </distributionManagement>
 
